@@ -1,4 +1,4 @@
-import styled from "styled-components";
+import styled from 'styled-components'
 
 export const HeaderContainer = styled.header`
   background: ${({ theme }) => theme['gray-900']};
@@ -30,4 +30,4 @@ export const NewTransactionButton = styled.button`
     background-color: ${({ theme }) => theme['green-700']};
     transition: background-color 0.5s;
   }
-`;
+`
