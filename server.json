@@ -7,6 +7,22 @@
       "category": "Venda",
       "price": 1000,
       "createdAt": "2023-01-01T00:00:00.000Z"
+    },
+    {
+      "id": 2,
+      "description": "Hamburguer",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 50,
+      "createdAt": "2023-01-01T00:00:00.000Z"
+    },
+    {
+      "id": 3,
+      "description": "Aluguel",
+      "type": "outcome",
+      "category": "Casa",
+      "price": 500,
+      "createdAt": "2023-01-01T00:00:00.000Z"
     }
   ]
 }
